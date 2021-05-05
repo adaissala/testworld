@@ -1,1 +1,3 @@
-# testworld
+# maven-project
+
+Simple Maven Project
